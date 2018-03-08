@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/luaclient/luaclient.iml" filepath="$PROJECT_DIR$/luaclient/luaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luademo.iml" filepath="$PROJECT_DIR$/luademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/luaserver/luaserver.iml" filepath="$PROJECT_DIR$/luaserver/luaserver.iml" />
+    </modules>
+  </component>
+</project>
